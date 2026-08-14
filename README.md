@@ -11,7 +11,7 @@
 
 ![K-Means](https://img.shields.io/badge/ML-K--Means-orange?style=for-the-badge)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![kaggle](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge&logo=scikit-learn)
 
